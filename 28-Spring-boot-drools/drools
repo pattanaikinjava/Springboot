@@ -1,0 +1,12 @@
+1. Drool file is set of rules that are implemented in application code.
+   Drool is a rule engine through which we can set rules for our application business logic
+   and we can separate hardcode conditions from business logic
+
+2. Drools is Business Rules Management System written in java.
+   Business logic can be written in set of rules implementation in application code, can be managed
+   without hard coding if-else conditions.
+
+3. Rules :
+         When <SomeConditon satisfied>
+            <perform some action>
+         Then
